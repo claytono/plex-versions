@@ -1,7 +1,7 @@
 ---
 language: python
 python:
- - 2.7
+- 2.7
 
 addons:
   apt:
@@ -17,3 +17,10 @@ script:
 - make test
   # Run an update as a test
 - ./update.sh
+
+after_success:
+- support/commit-and-push-if-needed.sh
+
+env:
+  global:
+    secure: hTD3Rk0WHkFWGTwrQ2k3H0Gw1TKI2gZeU+vPRxswGZ3buLvoF9DrIfgA5Hc2TQFbXM1rS43fiHuGj4DNUZGJ+AbVfLtnyFTZDH5NVKY+LRi3eUVxjnDC/hVVjs/bB8+Zn6aFd8nUk6KOf+TWFi5/cyTzJICFwdyG2trq32ndQ6aPOYfkSpNKD9pGzwTXQgWRQuF4qnkAPz4suK9QY10J7JFsZO/Uag/mIMig3ClYrb1R8OKUmkhrQSpHQG7psF76z7yaxGUyilsa/jxzlowkEBVONXYfZWNDFGETSjHnMFpTKiCpy41T/fWDYEIDzb+Id8ZECdVQjI2UxPVS0Rp4o0hoHOYHulwx/KMRsgf/WbwGH+QFCU+2QDYTj2UoOPo/ecTp3BdANnxpUCEnCOX+4Ts+IApmdxh462M1t9HqQocS/JlSBKAZ3gUeY80dMZlK2+t2vYDx80Rv36k3wxw2X0qLa8vtwUkNY+Bzh57EXpbyKd1HLFeaaGu6Z7x4uawNbrRGUSS0z3DxSBUT35hoKIvyC7OP21z9KRZ1fSmT1ltCHhZKeBzwOfx9IbABBuajZYEC7kWfXyDqsn0teYi+pwPE++9XBNYct9SL9CcVht9HZXUY9NoY3CvgstO5Ewm8plKr+2nj8gQ1cdhg0T9mbVmdrunZnMeuGaIgBM48ejU=
