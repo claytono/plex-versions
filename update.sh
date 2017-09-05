@@ -22,3 +22,5 @@ jq . < "$BASEDIR/raw/pms-$TIMESTAMP.json" \
     > "$BASEDIR/pretty/pms-$TIMESTAMP.json"
 cp "$BASEDIR/pretty/pms-$TIMESTAMP.json" \
     "$BASEDIR/pretty/pms-latest.json"
+
+venv/bin/python support/update-versions.py raw/pms-latest.json
