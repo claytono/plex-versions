@@ -13,4 +13,7 @@ addons:
 install:
 - pip install -r requirements.txt -r test-requirements.txt
 
-script: make test
+script:
+- make test
+  # Run an update as a test
+- ./update.sh
