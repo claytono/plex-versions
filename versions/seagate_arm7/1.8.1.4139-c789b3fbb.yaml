@@ -1,0 +1,22 @@
+build: linux-seagate-arm7
+checksum: 8e03ed4ae2cd638077120678f95de5662a6ba5cd
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: (Web) Updated Plex Web to 3.14.1
+items_fixed: "(Play Queues) Skipping to the same item in a play queue would not update\
+  \ the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms\
+  \ that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more\
+  \ when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks\
+  \ with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR)\
+  \ Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos)\
+  \ Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\
+  \n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\
+  \n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes\
+  \ when playing VP8 content (#7281) (#7359)"
+label: ARMv7
+name: Seagate
+release_date: 1502201937
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/com.plex.plexmediaserver-1.8.1.4139-c789b3fbb-armv7.rbw
+version: 1.8.1.4139-c789b3fbb

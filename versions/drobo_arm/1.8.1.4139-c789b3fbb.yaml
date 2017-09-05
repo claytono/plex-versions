@@ -1,0 +1,22 @@
+build: linux-drobo-arm
+checksum: 7b995ff5e2bdc3914bf6eeaa37be5a7a83e98a43
+distro: drobo
+extra_info: ''
+id: drobo
+items_added: (Web) Updated Plex Web to 3.14.1
+items_fixed: "(Play Queues) Skipping to the same item in a play queue would not update\
+  \ the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms\
+  \ that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more\
+  \ when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks\
+  \ with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR)\
+  \ Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos)\
+  \ Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\
+  \n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\
+  \n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes\
+  \ when playing VP8 content (#7281) (#7359)"
+label: Download
+name: Drobo
+release_date: 1502201937
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plex.tgz
+version: 1.8.1.4139-c789b3fbb
