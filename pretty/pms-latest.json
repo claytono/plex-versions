@@ -1,0 +1,428 @@
+{
+  "computer": {
+    "Windows": {
+      "id": "windows",
+      "name": "Windows",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "<a href=\"https://support.plex.tv/hc/en-us/articles/200375666\">Windows 7 SP1 or newer</a>",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Download",
+          "build": "windows-i386",
+          "distro": "english",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/Plex-Media-Server-1.8.1.4139-c789b3fbb.exe",
+          "checksum": "beb532bb98d289011268446b33759fb2c0d46ba4"
+        }
+      ]
+    },
+    "Mac": {
+      "id": "mac",
+      "name": "Mac",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "<a href=\"https://support.plex.tv/hc/en-us/articles/200375666\">OS X 10.9 Mavericks or newer</a>",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Download",
+          "build": "darwin-x86_64",
+          "distro": "macosx",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-OSX.zip",
+          "checksum": "dffc7e7c48f8ea3334e3087eeb9cc7eff0da594b"
+        }
+      ]
+    },
+    "Linux": {
+      "id": "linux",
+      "name": "Linux",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Ubuntu 64-bit (10.04 Lucid or newer) / Debian (8+) 64-bit",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "ubuntu",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver_1.8.1.4139-c789b3fbb_amd64.deb",
+          "checksum": "5033707d34f9696a4c0d7fcde3348983fcd58fd9"
+        },
+        {
+          "label": "Ubuntu 32-bit (10.04 Lucid or newer) / Debian (8+) 32-bit",
+          "build": "linux-ubuntu-i686",
+          "distro": "ubuntu",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver_1.8.1.4139-c789b3fbb_i386.deb",
+          "checksum": "8e4bfe8e1988df3ef4f9226f787da36ecd996c00"
+        },
+        {
+          "label": "Fedora 64-bit (RPM for Fedora 14 or newer)",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "redhat",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-1.8.1.4139-c789b3fbb.x86_64.rpm",
+          "checksum": "69d7a38946c1f458d96b9991a36a0d19aa82a83a"
+        },
+        {
+          "label": "Fedora 32-bit (RPM for Fedora 14 or newer)",
+          "build": "linux-ubuntu-i686",
+          "distro": "redhat",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-1.8.1.4139-c789b3fbb.i386.rpm",
+          "checksum": "4b8b029047ed3a828af0041d77487b743016051d"
+        },
+        {
+          "label": "CentOS 64-bit (RPM for CentOS 6 or newer)",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "redhat",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-1.8.1.4139-c789b3fbb.x86_64.rpm",
+          "checksum": "69d7a38946c1f458d96b9991a36a0d19aa82a83a"
+        },
+        {
+          "label": "CentOS 32-bit (RPM for CentOS 6 or newer)",
+          "build": "linux-ubuntu-i686",
+          "distro": "redhat",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-1.8.1.4139-c789b3fbb.i386.rpm",
+          "checksum": "4b8b029047ed3a828af0041d77487b743016051d"
+        }
+      ]
+    },
+    "FreeBSD": {
+      "id": "freebsd",
+      "name": "FreeBSD",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "<a href=\"https://support.plex.tv/hc/en-us/articles/200375666\">FreeBSD 9.1 or newer</a>",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Download 64-bit",
+          "build": "freebsd-x86_64",
+          "distro": "freebsd",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-freebsd-amd64.tar.bz2",
+          "checksum": "5883ef5b67e95c7b1c71cb6a39f397da5f4513f7"
+        }
+      ]
+    }
+  },
+  "nas": {
+    "Synology": {
+      "id": "synology",
+      "name": "Synology",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "Note: <b>Requires DSM 5.0 minimum to install.</b>",
+      "extra_info": "Guide: <a href=\"https://support.plex.tv/hc/en-us/articles/205165858\">Add Plex as a trusted publisher for package installations</a>.",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Intel - 32-bit",
+          "build": "linux-synology-i686",
+          "distro": "synology",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-x86.spk",
+          "checksum": "26b994e5ec647678c560634933c1288ab4ff7492"
+        },
+        {
+          "label": "ARMv7",
+          "build": "linux-synology-armv7",
+          "distro": "synology",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-arm7.spk",
+          "checksum": "0ad525a8c6e1fc5de05cacf561b54e16f149cbe8"
+        },
+        {
+          "label": "Intel - 64-bit (DSM +6.0)",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "synology",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-x86_64.spk",
+          "checksum": "7627792081d0cc7ab335666c6d56ec3ef23f0c43"
+        }
+      ]
+    },
+    "Netgear": {
+      "id": "netgear",
+      "name": "Netgear",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Intel 6.x",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "readynas6",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-ros6-binaries_1.8.1.4139-c789b3fbb_amd64.deb",
+          "checksum": "074496efebf632bbe6881314ba03661561e71c8b"
+        },
+        {
+          "label": "ARM 6.x",
+          "build": "linux-armada-arm7",
+          "distro": "readynas6",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-ros6-binaries_1.8.1.4139-c789b3fbb_armel.deb",
+          "checksum": "51c6fb75338b452febc90f8589c317c331f7c332"
+        },
+        {
+          "label": "ARM 6.x RN2xx",
+          "build": "linux-annapurnatrans-arm7",
+          "distro": "readynas6",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver-ros6-binaries-annapurna_1.8.1.4139-c789b3fbb_armel.deb",
+          "checksum": "1639f7d085efe22a0d737dd4fd0b47d32f64a437"
+        }
+      ]
+    },
+    "QNAP": {
+      "id": "qnap",
+      "name": "QNAP",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "<a href=\"http://www.qnap.com/i/en/trade_teach/con_show.php?op=showone&cid=72\"><b>View the tutorial</b></a> on how to use a QNAP Turbo NAS as a Plex Media Sever.",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "ARMv7-X31",
+          "build": "linux-qnapx31-armv7",
+          "distro": "qnap",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_arm-x31.qpkg",
+          "checksum": "2174db23b206d992e4bfadeaa0623c1010844efe"
+        },
+        {
+          "label": "ARMv7-X31+/X31P/X31X/1635",
+          "build": "linux-annapurna-arm7",
+          "distro": "qnap",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_arm-x31plus.qpkg",
+          "checksum": "37bf39e70e107b3f0125865baa3467dbcee421eb"
+        },
+        {
+          "label": "Intel/AMD 32-bit (QTS-4.2.x or older)",
+          "build": "linux-debian-i686",
+          "distro": "qnap",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_x86.qpkg",
+          "checksum": "01fea91cfa2d56866188a1c9b06c116b210d6000"
+        },
+        {
+          "label": "Intel/AMD 64-bit (QTS-4.3 or newer)",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "qnap",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_x86_64.qpkg",
+          "checksum": "e28ac29b1de55b66486785ec0b1e554d2e0f14e5"
+        }
+      ]
+    },
+    "unRAID": {
+      "id": "unraid",
+      "name": "unRAID",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "64-bit",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "unraid",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer-1.8.1.4139-c789b3fbb-x64-UnRAID.txz",
+          "checksum": "cf20848c319af87460c7cc00fc47bc8a028838ce"
+        }
+      ]
+    },
+    "Drobo": {
+      "id": "drobo",
+      "name": "Drobo",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Download",
+          "build": "linux-drobo-arm",
+          "distro": "drobo",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plex.tgz",
+          "checksum": "7b995ff5e2bdc3914bf6eeaa37be5a7a83e98a43"
+        }
+      ]
+    },
+    "ASUSTOR": {
+      "id": "asustor",
+      "name": "ASUSTOR",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Intel 64-bit",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "asustor",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver_1.8.1.4139-c789b3fbb_x86-64.apk",
+          "checksum": "3fcb8de3db6e2be146c41fd6cbeecf6629be604e"
+        },
+        {
+          "label": "Intel 32-bit",
+          "build": "linux-ubuntu-i686",
+          "distro": "asustor",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver_1.8.1.4139-c789b3fbb_i386.apk",
+          "checksum": "4cf9baa56f06437f411c6b6408f11d7052949723"
+        },
+        {
+          "label": "ARMv7",
+          "build": "linux-armada-arm7",
+          "distro": "asustor",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/plexmediaserver_1.8.1.4139-c789b3fbb_arm.apk",
+          "checksum": "5e254181f170ca561a39f0414e5ebdedf036460f"
+        }
+      ]
+    },
+    "Thecus": {
+      "id": "thecus",
+      "name": "Thecus",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Intel 64-bit",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "thecus",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_x64.app",
+          "checksum": "586864e16f73267869a57ae6e0a13a4b5cd2230e"
+        },
+        {
+          "label": "Intel 32-bit OS6",
+          "build": "linux-ubuntu-i686",
+          "distro": "thecus",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/PlexMediaServer_1.8.1.4139-c789b3fbb_i386.app",
+          "checksum": "3843e682af1e8d071ee6d5d131f8fdcf684198bf"
+        }
+      ]
+    },
+    "Seagate": {
+      "id": "seagate",
+      "name": "Seagate",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "Intel x64",
+          "build": "linux-ubuntu-seagate-x86_64",
+          "distro": "seagate",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/com.plex.plexmediaserver-1.8.1.4139-c789b3fbb-x86_64.rbw",
+          "checksum": "b6383b7d03d01980df0d4f30e4bac7c30480541c"
+        },
+        {
+          "label": "ARMv7",
+          "build": "linux-seagate-arm7",
+          "distro": "seagate",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/com.plex.plexmediaserver-1.8.1.4139-c789b3fbb-armv7.rbw",
+          "checksum": "8e03ed4ae2cd638077120678f95de5662a6ba5cd"
+        }
+      ]
+    },
+    "Western Digital": {
+      "id": "wd",
+      "name": "Western Digital",
+      "release_date": 1502201937,
+      "version": "1.8.1.4139-c789b3fbb",
+      "requirements": "",
+      "extra_info": "",
+      "items_added": "(Web) Updated Plex Web to 3.14.1",
+      "items_fixed": "(Play Queues) Skipping to the same item in a play queue would not update the id accordingly (#7248)\r\n(Preferences) Hide auto-update preference on platforms that don't support it (#7332)\r\n(Streaming Brain) Allow clients to buffer more when at max quality (#6624)\r\n(Serialization) /status/sessions endpoint for playbacks with multiple Media elements wasn't serialized to JSON correctly (#7344)\r\n(DVR) Log tuner make/model and support status when media grabs start. (#7167)\r\n(Photos) Bad data saved inside Exposure EXIF tags could cause analysis to crash (#6822)\r\n(Serialization) Requesting /media/providers as JSON no longer crashes PMS (#7354)\r\n(Android) Green tint in software-decoded video (#7385)\r\n(Transcoder) Crashes when playing VP8 content (#7281) (#7359)",
+      "releases": [
+        {
+          "label": "My Cloud Mirror",
+          "build": "linux-wd-armv7",
+          "distro": "wd-mirr",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudMirror_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "f19179a4fa3e4b5e03d76fe8e458a91a03dd17b7"
+        },
+        {
+          "label": "My Cloud Mirror Gen2",
+          "build": "linux-wd-armv7",
+          "distro": "wd-mirrg2",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudMirrorGen2_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "82797dae8d2794a2dbba81e7d31ac75aac81c2be"
+        },
+        {
+          "label": "My Cloud EX2",
+          "build": "linux-wd-armv7",
+          "distro": "wd-ex2",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudEX2_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "8113d48b6d885a47e56697ccfc0a7b27244cdc79"
+        },
+        {
+          "label": "My Cloud EX2100",
+          "build": "linux-wd-armv7",
+          "distro": "wd-ex2100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudEX2100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "90afef8389691bea7b547636004f89ca92aa39f4"
+        },
+        {
+          "label": "My Cloud EX4100",
+          "build": "linux-wd-armv7",
+          "distro": "wd-ex4100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudEX4100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "9de26bf94a0372ccf34cd6e816617c66250fe780"
+        },
+        {
+          "label": "My Cloud DL2100",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "wd-dl2100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudDL2100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "02117f9ca0ef0c184b05fc80b7bd5bb28a132cb6"
+        },
+        {
+          "label": "My Cloud DL4100",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "wd-dl4100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/WDMyCloudDL4100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "8302d8903c40f9bcda6c87bcaa688cc9b5023678"
+        },
+        {
+          "label": "My Cloud EX2 Ultra",
+          "build": "linux-wd-armv7",
+          "distro": "wd-ex2ultra",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/MyCloudEX2Ultra_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "cde7a3fa9d230576e5eee86a1e5f1d1f692668cd"
+        },
+        {
+          "label": "My Cloud PR2100",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "wd-pr2100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/MyCloudPR2100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "556af8610cd24a4ee81e7f568c6cc2d5c793a2c7"
+        },
+        {
+          "label": "My Cloud PR4100",
+          "build": "linux-ubuntu-x86_64",
+          "distro": "wd-pr4100",
+          "url": "https://downloads.plex.tv/plex-media-server/1.8.1.4139-c789b3fbb/MyCloudPR4100_plexmediaserver_1814139-c789b3fbb.bin",
+          "checksum": "91d3f01f8ab8c38274f8800f7683a378d87ace15"
+        }
+      ]
+    }
+  }
+}
