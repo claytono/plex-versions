@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: ad926828e3242c225515e187cdf94ebe53fce9a2
+distro: thecus
+extra_info: ''
+id: thecus
+items_added: (Web) Updated Plex Web to 3.20.4
+items_fixed: ''
+label: Intel 64-bit
+name: Thecus
+release_date: 1504519564
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.3.4235-2d20185b0/PlexMediaServer_1.8.3.4235-2d20185b0_x64.app
+version: 1.8.3.4235-2d20185b0

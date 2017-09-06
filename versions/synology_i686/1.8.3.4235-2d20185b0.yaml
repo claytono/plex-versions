@@ -1,0 +1,14 @@
+build: linux-synology-i686
+checksum: cec19f9ce6bac5a9495bc367153f72a2a92aef97
+distro: synology
+extra_info: 'Guide: <a href="https://support.plex.tv/hc/en-us/articles/205165858">Add
+  Plex as a trusted publisher for package installations</a>.'
+id: synology
+items_added: (Web) Updated Plex Web to 3.20.4
+items_fixed: ''
+label: Intel - 32-bit
+name: Synology
+release_date: 1504519564
+requirements: 'Note: <b>Requires DSM 5.0 minimum to install.</b>'
+url: https://downloads.plex.tv/plex-media-server/1.8.3.4235-2d20185b0/PlexMediaServer-1.8.3.4235-2d20185b0-x86.spk
+version: 1.8.3.4235-2d20185b0

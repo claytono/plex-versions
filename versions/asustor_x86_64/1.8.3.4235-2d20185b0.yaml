@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: ae0d27b6e232ab95cdc882e1997980fae24b0ea5
+distro: asustor
+extra_info: ''
+id: asustor
+items_added: (Web) Updated Plex Web to 3.20.4
+items_fixed: ''
+label: Intel 64-bit
+name: ASUSTOR
+release_date: 1504519564
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.3.4235-2d20185b0/plexmediaserver_1.8.3.4235-2d20185b0_x86-64.apk
+version: 1.8.3.4235-2d20185b0

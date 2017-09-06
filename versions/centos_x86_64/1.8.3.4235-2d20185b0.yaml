@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: 81af869cc3fb62f4974e60a56ae01b14b475c220
+distro: redhat
+extra_info: ''
+id: linux
+items_added: (Web) Updated Plex Web to 3.20.4
+items_fixed: ''
+label: CentOS 64-bit (RPM for CentOS 6 or newer)
+name: Linux
+release_date: 1504519564
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.3.4235-2d20185b0/plexmediaserver-1.8.3.4235-2d20185b0.x86_64.rpm
+version: 1.8.3.4235-2d20185b0

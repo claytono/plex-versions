@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: 6c909b1c13bce548bdf0e1b2a980be86465ef2c2
+distro: wd-dl2100
+extra_info: ''
+id: wd
+items_added: (Web) Updated Plex Web to 3.20.4
+items_fixed: ''
+label: My Cloud DL2100
+name: Western Digital
+release_date: 1504519564
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.3.4235-2d20185b0/WDMyCloudDL2100_plexmediaserver_1834235-2d20185b0.bin
+version: 1.8.3.4235-2d20185b0
