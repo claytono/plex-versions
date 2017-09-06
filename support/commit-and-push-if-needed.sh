@@ -28,5 +28,9 @@ if [[ $TRAVIS != "false" ]]; then
 fi
 
 git add raw pretty versions
-git commit -m "Travis #${TRAVIS_BUILD_NUMBER}"
+git commit -F - <<EOF
+Travis #${TRAVIS_BUILD_NUMBER}
+
+[skip ci]
+EOF
 git push origin HEAD:master
