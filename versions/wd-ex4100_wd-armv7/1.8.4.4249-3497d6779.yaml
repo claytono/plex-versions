@@ -1,0 +1,13 @@
+build: linux-wd-armv7
+checksum: 7a378206478353e3accfec24e92a683d702e8b8d
+distro: wd-ex4100
+extra_info: ''
+id: wd
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: My Cloud EX4100
+name: Western Digital
+release_date: 1504785409
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/WDMyCloudEX4100_plexmediaserver_1844249-3497d6779.bin
+version: 1.8.4.4249-3497d6779

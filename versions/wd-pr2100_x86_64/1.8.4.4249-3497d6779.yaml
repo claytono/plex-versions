@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: bab1d751622c485cc5048cacc23948ed0bbd1223
+distro: wd-pr2100
+extra_info: ''
+id: wd
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: My Cloud PR2100
+name: Western Digital
+release_date: 1504785409
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/MyCloudPR2100_plexmediaserver_1844249-3497d6779.bin
+version: 1.8.4.4249-3497d6779

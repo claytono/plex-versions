@@ -1,0 +1,14 @@
+build: windows-i386
+checksum: b199a0560a197a04c2b2063b9817632ca5397ec8
+distro: english
+extra_info: ''
+id: windows
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: Download
+name: Windows
+release_date: 1504785409
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">Windows
+  7 SP1 or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/Plex-Media-Server-1.8.4.4249-3497d6779.exe
+version: 1.8.4.4249-3497d6779

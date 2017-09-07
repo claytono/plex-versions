@@ -1,0 +1,13 @@
+build: linux-annapurnatrans-arm7
+checksum: 8d8c6e5940d35183030c397a04705f9c0052ffcc
+distro: readynas6
+extra_info: ''
+id: netgear
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: ARM 6.x RN2xx
+name: Netgear
+release_date: 1504785409
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/plexmediaserver-ros6-binaries-annapurna_1.8.4.4249-3497d6779_armel.deb
+version: 1.8.4.4249-3497d6779

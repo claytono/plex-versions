@@ -1,0 +1,13 @@
+build: linux-ubuntu-i686
+checksum: 10d9e8f2248bed9c6d30f9f6930811e2d1d6e942
+distro: redhat
+extra_info: ''
+id: linux
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: CentOS 32-bit (RPM for CentOS 6 or newer)
+name: Linux
+release_date: 1504785409
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/plexmediaserver-1.8.4.4249-3497d6779.i386.rpm
+version: 1.8.4.4249-3497d6779

@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: 135fdf25bedd6665f8e6332d1070df7be060c587
+distro: unraid
+extra_info: ''
+id: unraid
+items_added: (Web) Bumped web client to 3.20.5
+items_fixed: ''
+label: 64-bit
+name: unRAID
+release_date: 1504785409
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.8.4.4249-3497d6779/PlexMediaServer-1.8.4.4249-3497d6779-x64-UnRAID.txz
+version: 1.8.4.4249-3497d6779
