@@ -1,0 +1,16 @@
+build: darwin-x86_64
+checksum: 0b4539b0bad12388a1c4a2051cd7a444e9bfaf2b
+distro: macosx
+extra_info: ''
+id: mac
+items_added: "(Crash Reporting) Preference to opt out of crash reporting\r\n(Privacy)\
+  \ Updates for new privacy policy"
+items_fixed: (Transcoder) Deadlocks when performing concurrent static and streaming
+  transcodes (#7554)
+label: Download
+name: Mac
+release_date: 1505836842
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">OS X 10.9
+  Mavericks or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.9.1.4272-b207937f1/PlexMediaServer-1.9.1.4272-b207937f1-OSX.zip
+version: 1.9.1.4272-b207937f1
