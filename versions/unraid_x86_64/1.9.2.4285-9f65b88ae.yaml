@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: eb30ead4147948bef02f14899547b15520480741
+distro: unraid
+extra_info: ''
+id: unraid
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: 64-bit
+name: unRAID
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/PlexMediaServer-1.9.2.4285-9f65b88ae-x64-UnRAID.txz
+version: 1.9.2.4285-9f65b88ae

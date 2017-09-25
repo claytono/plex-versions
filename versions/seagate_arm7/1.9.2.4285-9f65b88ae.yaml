@@ -1,0 +1,13 @@
+build: linux-seagate-arm7
+checksum: dd17d0aaf8b8522a8f8879f8c5a7dc8a406cd514
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: ARMv7
+name: Seagate
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/com.plex.plexmediaserver-1.9.2.4285-9f65b88ae-armv7.rbw
+version: 1.9.2.4285-9f65b88ae

@@ -1,0 +1,13 @@
+build: linux-ubuntu-seagate-x86_64
+checksum: 9fe8bb568d43e4e7a54611c1b5a8ba110ba4c403
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: Intel x64
+name: Seagate
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/com.plex.plexmediaserver-1.9.2.4285-9f65b88ae-x86_64.rbw
+version: 1.9.2.4285-9f65b88ae

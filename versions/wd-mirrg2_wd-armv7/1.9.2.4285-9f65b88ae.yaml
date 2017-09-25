@@ -1,0 +1,13 @@
+build: linux-wd-armv7
+checksum: cf1704ec4c5502b306a36f3165a29635ff57f33f
+distro: wd-mirrg2
+extra_info: ''
+id: wd
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: My Cloud Mirror Gen2
+name: Western Digital
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/WDMyCloudMirrorGen2_plexmediaserver_1924285-9f65b88ae.bin
+version: 1.9.2.4285-9f65b88ae

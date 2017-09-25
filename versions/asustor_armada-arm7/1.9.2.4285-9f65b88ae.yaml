@@ -1,0 +1,13 @@
+build: linux-armada-arm7
+checksum: 7508c4da2fde492e43673ed10ccd877bec2caa54
+distro: asustor
+extra_info: ''
+id: asustor
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: ARMv7
+name: ASUSTOR
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/plexmediaserver_1.9.2.4285-9f65b88ae_arm.apk
+version: 1.9.2.4285-9f65b88ae

@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: 3aa6397ae16554ff016d5c179356dfa2a2803caf
+distro: readynas6
+extra_info: ''
+id: netgear
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: Intel 6.x
+name: Netgear
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/plexmediaserver-ros6-binaries_1.9.2.4285-9f65b88ae_amd64.deb
+version: 1.9.2.4285-9f65b88ae

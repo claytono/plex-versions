@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: 177291afb410201e2c15fa9a92b30596445f4c7f
+distro: ubuntu
+extra_info: ''
+id: linux
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: Ubuntu 64-bit (10.04 Lucid or newer) / Debian (8+) 64-bit
+name: Linux
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/plexmediaserver_1.9.2.4285-9f65b88ae_amd64.deb
+version: 1.9.2.4285-9f65b88ae

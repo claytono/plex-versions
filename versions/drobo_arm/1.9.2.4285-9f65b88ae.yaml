@@ -1,0 +1,13 @@
+build: linux-drobo-arm
+checksum: ad1dc3ee1019f6ce2aa88f7218988ffc3a4fb22f
+distro: drobo
+extra_info: ''
+id: drobo
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: Download
+name: Drobo
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/plex.tgz
+version: 1.9.2.4285-9f65b88ae

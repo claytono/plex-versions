@@ -1,0 +1,13 @@
+build: linux-ubuntu-x86_64
+checksum: c81383054fb48200a6b915ed5b147da83d8424c0
+distro: wd-dl4100
+extra_info: ''
+id: wd
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: My Cloud DL4100
+name: Western Digital
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/WDMyCloudDL4100_plexmediaserver_1924285-9f65b88ae.bin
+version: 1.9.2.4285-9f65b88ae

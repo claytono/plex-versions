@@ -1,0 +1,14 @@
+build: linux-debian-i686
+checksum: ee8848c24607ad9b7f893f6e9830469099669533
+distro: qnap
+extra_info: <a href="http://www.qnap.com/i/en/trade_teach/con_show.php?op=showone&cid=72"><b>View
+  the tutorial</b></a> on how to use a QNAP Turbo NAS as a Plex Media Sever.
+id: qnap
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: Intel/AMD 32-bit (QTS-4.2.x or older)
+name: QNAP
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/PlexMediaServer_1.9.2.4285-9f65b88ae_x86.qpkg
+version: 1.9.2.4285-9f65b88ae

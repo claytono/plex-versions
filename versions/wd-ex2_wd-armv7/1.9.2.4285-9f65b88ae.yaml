@@ -1,0 +1,13 @@
+build: linux-wd-armv7
+checksum: a8a41d702bab6c501cb6d8361d2d1c42fe8c8940
+distro: wd-ex2
+extra_info: ''
+id: wd
+items_added: (Web) Updated Plex Web to 3.20.8
+items_fixed: ''
+label: My Cloud EX2
+name: Western Digital
+release_date: 1506342214
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.2.4285-9f65b88ae/WDMyCloudEX2_plexmediaserver_1924285-9f65b88ae.bin
+version: 1.9.2.4285-9f65b88ae
