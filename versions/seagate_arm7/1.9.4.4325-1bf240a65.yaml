@@ -1,0 +1,15 @@
+build: linux-seagate-arm7
+checksum: f9728c99c5cc00aafa00b99aa6a15f29ceb56e51
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: ARMv7
+name: Seagate
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/com.plex.plexmediaserver-1.9.4.4325-1bf240a65-armv7.rbw
+version: 1.9.4.4325-1bf240a65

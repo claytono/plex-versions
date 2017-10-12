@@ -1,0 +1,15 @@
+build: linux-ubuntu-seagate-x86_64
+checksum: 137dc39f7e3c16388499338594eea5b018211909
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: Intel x64
+name: Seagate
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/com.plex.plexmediaserver-1.9.4.4325-1bf240a65-x86_64.rbw
+version: 1.9.4.4325-1bf240a65

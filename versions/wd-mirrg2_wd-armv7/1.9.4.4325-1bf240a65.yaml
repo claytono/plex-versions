@@ -1,0 +1,15 @@
+build: linux-wd-armv7
+checksum: 9a82c23c09c64071e3d8d24a8f6bcbf856da1a09
+distro: wd-mirrg2
+extra_info: ''
+id: wd
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: My Cloud Mirror Gen2
+name: Western Digital
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/WDMyCloudMirrorGen2_plexmediaserver_1944325-1bf240a65.bin
+version: 1.9.4.4325-1bf240a65

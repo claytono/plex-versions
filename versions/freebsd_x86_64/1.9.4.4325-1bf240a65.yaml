@@ -1,0 +1,16 @@
+build: freebsd-x86_64
+checksum: e2203c08c97d33970b576e3abe99aae91e9b6847
+distro: freebsd
+extra_info: ''
+id: freebsd
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: Download 64-bit
+name: FreeBSD
+release_date: 1507237538
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">FreeBSD
+  9.1 or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/PlexMediaServer-1.9.4.4325-1bf240a65-freebsd-amd64.tar.bz2
+version: 1.9.4.4325-1bf240a65

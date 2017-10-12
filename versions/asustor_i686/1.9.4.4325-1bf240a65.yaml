@@ -1,0 +1,15 @@
+build: linux-ubuntu-i686
+checksum: d963bc091b9c21e105cd29008dfa0b16cf45161c
+distro: asustor
+extra_info: ''
+id: asustor
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: Intel 32-bit
+name: ASUSTOR
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/plexmediaserver_1.9.4.4325-1bf240a65_i386.apk
+version: 1.9.4.4325-1bf240a65

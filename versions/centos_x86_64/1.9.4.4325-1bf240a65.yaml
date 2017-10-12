@@ -1,0 +1,15 @@
+build: linux-ubuntu-x86_64
+checksum: 0d330d52851f8100ed68c03014832a86a76ce62b
+distro: redhat
+extra_info: ''
+id: linux
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: CentOS 64-bit (RPM for CentOS 6 or newer)
+name: Linux
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/plexmediaserver-1.9.4.4325-1bf240a65.x86_64.rpm
+version: 1.9.4.4325-1bf240a65

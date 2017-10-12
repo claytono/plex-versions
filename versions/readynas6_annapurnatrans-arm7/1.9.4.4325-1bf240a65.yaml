@@ -1,0 +1,15 @@
+build: linux-annapurnatrans-arm7
+checksum: f45db0678c752d967d868c113fdb0862ae2f5fee
+distro: readynas6
+extra_info: ''
+id: netgear
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: ARM 6.x RN2xx
+name: Netgear
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/plexmediaserver-ros6-binaries-annapurna_1.9.4.4325-1bf240a65_armel.deb
+version: 1.9.4.4325-1bf240a65

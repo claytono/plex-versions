@@ -1,0 +1,15 @@
+build: linux-ubuntu-x86_64
+checksum: 01f648126125d034d75bf11e6b8577b91a4a1236
+distro: readynas6
+extra_info: ''
+id: netgear
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: Intel 6.x
+name: Netgear
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/plexmediaserver-ros6-binaries_1.9.4.4325-1bf240a65_amd64.deb
+version: 1.9.4.4325-1bf240a65

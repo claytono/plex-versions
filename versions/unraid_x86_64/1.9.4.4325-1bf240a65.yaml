@@ -1,0 +1,15 @@
+build: linux-ubuntu-x86_64
+checksum: 151bd576fc72ed10b8d045eec42b2a16275dee7d
+distro: unraid
+extra_info: ''
+id: unraid
+items_added: ''
+items_fixed: "(Hubs) Opening a photo discovery hub may cause the server to crash (#7624)\r\
+  \n(DVR) A rare crash when using DVR or Live TV (#7632)\r\n(Playback) Multichannel\
+  \ audio issues in iOS 11"
+label: 64-bit
+name: unRAID
+release_date: 1507237538
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.4.4325-1bf240a65/PlexMediaServer-1.9.4.4325-1bf240a65-x64-UnRAID.txz
+version: 1.9.4.4325-1bf240a65
