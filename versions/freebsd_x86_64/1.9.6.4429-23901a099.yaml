@@ -1,0 +1,20 @@
+build: freebsd-x86_64
+checksum: 9b4a3066b54b312840f180bf27eacd70968a584b
+distro: freebsd
+extra_info: ''
+id: freebsd
+items_added: (Web) Updated Plex Web to 3.23.1
+items_fixed: "(Statistics) Add database fixup to cleanup statistics tables (#7520)\r\
+  \n(DVR) Resolve crash when recording radio channels or channels without video stream\
+  \ (#7229)\r\n(Search) Duplicate albums/tracks could be returned in search.\r\n(Photos)\
+  \ Videos added via Camera Upload might have the wrong date (#7517).\r\n(Sync) Clients\
+  \ wouldn't account for files bigger than 2GB when calculating the used space. (#7664)\r\
+  \nResolve a crash (#7689)\r\n(Transcoder) Playback could fail near the end of a\
+  \ video, most often when using automatic quality. (#7691)"
+label: Download 64-bit
+name: FreeBSD
+release_date: 1509993683
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">FreeBSD
+  9.1 or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.9.6.4429-23901a099/PlexMediaServer-1.9.6.4429-23901a099-freebsd-amd64.tar.bz2
+version: 1.9.6.4429-23901a099
