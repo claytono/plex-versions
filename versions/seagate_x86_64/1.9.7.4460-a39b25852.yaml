@@ -1,0 +1,48 @@
+build: linux-ubuntu-seagate-x86_64
+checksum: b90cb464060937fed87ef26d3ba35cdfe3a68325
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: "(Web) Updated Plex Web to 3.26.2\r\n(Transcoder) Support pruning old\
+  \ segments to reduce disk usage in DASH and HTTP transcodes (#7484)"
+items_fixed: "(DVR) Fix an issue that led to missing video streams in some cases (#7637)\r\
+  \n(Android) Fix green artifacts when transcoding to DASH (#7578)\r\n(DVR) Deadlock\
+  \ when tuning live (#7684)\r\n(Transcoder) Rare deadlock during playback (#7710)\r\
+  \n(Hubs) When deleting a playlist, it could remain in the RECENT PLAYLISTS hub.\
+  \ (#7701)\r\n(Library) Crash when attempting to download extras (#7713)\r\n(Library)\
+  \ Crash when getting children of an unparented season (#7677)\r\n(Hubs) When creating\
+  \ a playlist, ensure it shows up in RECENT PLAYLISTS even before playing.\r\n(Hubs)\
+  \ A rare case where episodes from other libraries could be suggested on postplay\
+  \ screen. (#7703)\r\n(Extras) Use the right bitrate for extras. (#7678)\r\n(DVR)\
+  \ Keep Certain channel data from causing EPG to fail entirely for all channels (#7728)\r\
+  \n(Android) Add missing library to the installer (#7716)\r\n(Transcoder) Do not\
+  \ disable hardware decoding if hardware encoding fails on unsupported resolutions\
+  \ (#7646)\r\n(Stream Ready) Don't crash when falling back from a hardware encoding\
+  \ failure (#7568)\r\n(Transcoder) Make dangerous transcoder prefs 'hidden' (#7536)\r\
+  \n(Security) Library section information could be leaked to shared users (#6954)\r\
+  \n(Diagnostics) The log file zip will now resepct the LogNumFiles preference (#7239)\r\
+  \n(Scheduled tasks) Sometimes nightly EPG refreshing task and others wouldn't run\
+  \ (#7719)\r\n(Streaming Brain) Preserve soft subtitles in DASH Auto-Quality (#7597)\r\
+  \n(Hubs) When changing the \"include in dashboard\" setting, dashboard wouldn't\
+  \ update (#7726)\r\n(Diagnostics) Downloaded logs/databases now have correct timestamps\
+  \ (#5177)\r\n(DVR) When changing folders in a library, recordings could fail (#6203)\r\
+  \n(Hubs) Don't show hubs with just one thing in them on show screens (#6353)\r\n\
+  (Library) When changing airing order, shows refresh automatically and thumb are\
+  \ correctly reset (#6465)\r\n(DVR) Exclude duplicate/past airings on other channels\
+  \ in EPG data so they show in the timeline correctly. (#7699)\r\n(iOS) Crash restarting\
+  \ the server. (#7231)\r\n(Filters) Add ability to filter on audio/subtitle languages\
+  \ (#6401)\r\n(Filters) Add writer/producer filters for movie libraries (#6401)\r\
+  \n(Filters) Director, writer, and producer custom filters for TV libraries now work\
+  \ correctly (#6401)\r\n(Photos) Items in photo timelines will reflect the correct\
+  \ date now if the original date is altered and re-analyzed (#7557)\r\n(Scanner)\
+  \ Corrected thumbnail generation on a section (#7764)\r\n(Transcoder) A crash with\
+  \ certain subtitles in files with embedded fonts (#7436)\r\n(Transcoder) A crash\
+  \ when trying to use hardware transcoding in macOS 10.10 (#7692)\r\n(Transcoder)\
+  \ A crash on certain FreeBSD configurations\r\n(Transcoder) Video quality improvements\
+  \ when hardware encoding on Broadwell and Braswell devices (#6914)"
+label: Intel x64
+name: Seagate
+release_date: 1510656876
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.9.7.4460-a39b25852/com.plex.plexmediaserver-1.9.7.4460-a39b25852-x86_64.rbw
+version: 1.9.7.4460-a39b25852
