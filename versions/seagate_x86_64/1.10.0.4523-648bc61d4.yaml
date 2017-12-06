@@ -1,0 +1,14 @@
+build: linux-ubuntu-seagate-x86_64
+checksum: 070737e80e1b42af8e8a1fe6e823d75a068510f7
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel x64
+name: Seagate
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/com.plex.plexmediaserver-1.10.0.4523-648bc61d4-x86_64.rbw
+version: 1.10.0.4523-648bc61d4

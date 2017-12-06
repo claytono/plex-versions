@@ -1,0 +1,15 @@
+build: linux-synology-i686
+checksum: 6a51364a7076794fadf0ea4945866ce852c78034
+distro: synology
+extra_info: 'Guide: <a href="https://support.plex.tv/hc/en-us/articles/205165858">Add
+  Plex as a trusted publisher for package installations</a>.'
+id: synology
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel - 32-bit
+name: Synology
+release_date: 1511821437
+requirements: 'Note: <b>Requires DSM 5.0 minimum to install.</b>'
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/PlexMediaServer-1.10.0.4523-648bc61d4-x86.spk
+version: 1.10.0.4523-648bc61d4

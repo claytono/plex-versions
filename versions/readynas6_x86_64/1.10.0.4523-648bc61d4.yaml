@@ -1,0 +1,14 @@
+build: linux-ubuntu-x86_64
+checksum: 4d72857b43dec992fb0e189a2262272aab1a0c58
+distro: readynas6
+extra_info: ''
+id: netgear
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel 6.x
+name: Netgear
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/plexmediaserver-ros6-binaries_1.10.0.4523-648bc61d4_amd64.deb
+version: 1.10.0.4523-648bc61d4

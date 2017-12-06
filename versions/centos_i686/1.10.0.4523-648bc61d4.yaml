@@ -1,0 +1,14 @@
+build: linux-ubuntu-i686
+checksum: f78283c8d8043e5c274972567c36d84e0bd075f9
+distro: redhat
+extra_info: ''
+id: linux
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: CentOS 32-bit (RPM for CentOS 6 or newer)
+name: Linux
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/plexmediaserver-1.10.0.4523-648bc61d4.i386.rpm
+version: 1.10.0.4523-648bc61d4

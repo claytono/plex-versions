@@ -1,0 +1,15 @@
+build: linux-ubuntu-x86_64
+checksum: ab37095fa8542cc3c8f22c41ee6549ce0aa2544a
+distro: qnap
+extra_info: <a href="http://www.qnap.com/i/en/trade_teach/con_show.php?op=showone&cid=72"><b>View
+  the tutorial</b></a> on how to use a QNAP Turbo NAS as a Plex Media Sever.
+id: qnap
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel/AMD 64-bit (QTS-4.3 or newer)
+name: QNAP
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/PlexMediaServer_1.10.0.4523-648bc61d4_x86_64.qpkg
+version: 1.10.0.4523-648bc61d4

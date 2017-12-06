@@ -1,0 +1,14 @@
+build: linux-wd-armv7
+checksum: f213c951c607c42eb51255603685e517c662e577
+distro: wd-ex4100
+extra_info: ''
+id: wd
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: My Cloud EX4100
+name: Western Digital
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/WDMyCloudEX4100_plexmediaserver_11004523-648bc61d4.bin
+version: 1.10.0.4523-648bc61d4

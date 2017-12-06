@@ -1,0 +1,14 @@
+build: linux-drobo-arm
+checksum: 6c54eac5ca9bd8609aab57e1b2d8e4a6ab5f18c6
+distro: drobo
+extra_info: ''
+id: drobo
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Download
+name: Drobo
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/plex.tgz
+version: 1.10.0.4523-648bc61d4

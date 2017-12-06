@@ -1,0 +1,14 @@
+build: linux-ubuntu-i686
+checksum: 7633642ea252cc96c9c2929212f3716d806b6170
+distro: ubuntu
+extra_info: ''
+id: linux
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Ubuntu 32-bit (10.04 Lucid or newer)
+name: Linux
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/plexmediaserver_1.10.0.4523-648bc61d4_i386.deb
+version: 1.10.0.4523-648bc61d4

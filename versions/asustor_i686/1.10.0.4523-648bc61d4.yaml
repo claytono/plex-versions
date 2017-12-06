@@ -1,0 +1,14 @@
+build: linux-ubuntu-i686
+checksum: c833ad0d08e29706d02e66dbfe4aa7648162c260
+distro: asustor
+extra_info: ''
+id: asustor
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel 32-bit
+name: ASUSTOR
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/plexmediaserver_1.10.0.4523-648bc61d4_i386.apk
+version: 1.10.0.4523-648bc61d4

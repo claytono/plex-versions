@@ -1,0 +1,14 @@
+build: linux-ubuntu-x86_64
+checksum: f6811537e854583b6e51a6e035b026d27cb68fe3
+distro: thecus
+extra_info: ''
+id: thecus
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Intel 64-bit
+name: Thecus
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/PlexMediaServer_1.10.0.4523-648bc61d4_x64.app
+version: 1.10.0.4523-648bc61d4

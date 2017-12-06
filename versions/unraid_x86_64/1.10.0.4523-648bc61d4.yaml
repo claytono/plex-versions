@@ -1,0 +1,14 @@
+build: linux-ubuntu-x86_64
+checksum: 6344af640d42a2d888dd282259c6fe4d2caf3050
+distro: unraid
+extra_info: ''
+id: unraid
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: 64-bit
+name: unRAID
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/PlexMediaServer-1.10.0.4523-648bc61d4-x64-UnRAID.txz
+version: 1.10.0.4523-648bc61d4

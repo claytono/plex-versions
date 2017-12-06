@@ -1,0 +1,15 @@
+build: darwin-x86_64
+checksum: 039b9e7496d54ef0b5e4e0533648ec1f1e947d7f
+distro: macosx
+extra_info: ''
+id: mac
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: Download
+name: Mac
+release_date: 1511821437
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">OS X 10.9
+  Mavericks or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/PlexMediaServer-1.10.0.4523-648bc61d4-OSX.zip
+version: 1.10.0.4523-648bc61d4

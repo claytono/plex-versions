@@ -1,0 +1,14 @@
+build: linux-seagate-arm7
+checksum: c6c022dbec6f31260d4903bf31216e87c982d3d6
+distro: seagate
+extra_info: ''
+id: seagate
+items_added: ''
+items_fixed: (DVR) Commercial removal was enabled by default for recording schedules
+  in some cases (#7898)
+label: ARMv7
+name: Seagate
+release_date: 1511821437
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.0.4523-648bc61d4/com.plex.plexmediaserver-1.10.0.4523-648bc61d4-armv7.rbw
+version: 1.10.0.4523-648bc61d4
