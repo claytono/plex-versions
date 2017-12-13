@@ -1,0 +1,25 @@
+build: darwin-x86_64
+checksum: 7a1c9e7c98067602892c04cfbf6a9c6d8be0cfb5
+distro: macosx
+extra_info: ''
+id: mac
+items_added: ''
+items_fixed: "(Codecs) Previously downloaded codecs were not automatically downloaded\
+  \ at server upgrade time (#7643)\r\n(DVR) Add some extra safety around loading EPG\
+  \ data to avoid a couple of crashes (#7883)\r\n(DVR) Recordings could hang if the\
+  \ tuner lost its signal lock (#7606)\r\n(Hubs) Starting playback from certain hubs\
+  \ may fail (#7777)\r\n(Photos) Videos added via Camera Upload have the wrong date\
+  \ on iOS (#7517).\r\n(Streaming Brain) Playback involving transcodes of some channel\
+  \ content failed with bandwidth error (#7911)\r\n(Streaming Brain) Subtitles could\
+  \ disappear at the end of the file while transcoding (#7922)\r\n(Transcoder) Subtitles\
+  \ could be unnecessarily transcoded when streaming to Plex Media Player (#7598)\r\
+  \n(MediaInspector) Not all date information was getting saved correctly after re-analysis\
+  \ (#7934)\r\n(Photos) The timeline view could become inconsistent when dates are\
+  \ altered on items in the section (#7955)"
+label: Download
+name: Mac
+release_date: 1513173282
+requirements: <a href="https://support.plex.tv/hc/en-us/articles/200375666">OS X 10.9
+  Mavericks or newer</a>
+url: https://downloads.plex.tv/plex-media-server/1.10.1.4602-f54242b6b/PlexMediaServer-1.10.1.4602-f54242b6b-OSX.zip
+version: 1.10.1.4602-f54242b6b

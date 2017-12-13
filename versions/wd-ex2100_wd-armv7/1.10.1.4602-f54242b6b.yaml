@@ -1,0 +1,24 @@
+build: linux-wd-armv7
+checksum: 7956dc41d50bac8ffb810773ef238788dc02938b
+distro: wd-ex2100
+extra_info: ''
+id: wd
+items_added: ''
+items_fixed: "(Codecs) Previously downloaded codecs were not automatically downloaded\
+  \ at server upgrade time (#7643)\r\n(DVR) Add some extra safety around loading EPG\
+  \ data to avoid a couple of crashes (#7883)\r\n(DVR) Recordings could hang if the\
+  \ tuner lost its signal lock (#7606)\r\n(Hubs) Starting playback from certain hubs\
+  \ may fail (#7777)\r\n(Photos) Videos added via Camera Upload have the wrong date\
+  \ on iOS (#7517).\r\n(Streaming Brain) Playback involving transcodes of some channel\
+  \ content failed with bandwidth error (#7911)\r\n(Streaming Brain) Subtitles could\
+  \ disappear at the end of the file while transcoding (#7922)\r\n(Transcoder) Subtitles\
+  \ could be unnecessarily transcoded when streaming to Plex Media Player (#7598)\r\
+  \n(MediaInspector) Not all date information was getting saved correctly after re-analysis\
+  \ (#7934)\r\n(Photos) The timeline view could become inconsistent when dates are\
+  \ altered on items in the section (#7955)"
+label: My Cloud EX2100
+name: Western Digital
+release_date: 1513173282
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.1.4602-f54242b6b/WDMyCloudEX2100_plexmediaserver_11014602-f54242b6b.bin
+version: 1.10.1.4602-f54242b6b

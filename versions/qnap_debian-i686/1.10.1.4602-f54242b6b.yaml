@@ -1,0 +1,25 @@
+build: linux-debian-i686
+checksum: dda107413c035e7db094d09d26837f6e119e3ef9
+distro: qnap
+extra_info: <a href="http://www.qnap.com/i/en/trade_teach/con_show.php?op=showone&cid=72"><b>View
+  the tutorial</b></a> on how to use a QNAP Turbo NAS as a Plex Media Sever.
+id: qnap
+items_added: ''
+items_fixed: "(Codecs) Previously downloaded codecs were not automatically downloaded\
+  \ at server upgrade time (#7643)\r\n(DVR) Add some extra safety around loading EPG\
+  \ data to avoid a couple of crashes (#7883)\r\n(DVR) Recordings could hang if the\
+  \ tuner lost its signal lock (#7606)\r\n(Hubs) Starting playback from certain hubs\
+  \ may fail (#7777)\r\n(Photos) Videos added via Camera Upload have the wrong date\
+  \ on iOS (#7517).\r\n(Streaming Brain) Playback involving transcodes of some channel\
+  \ content failed with bandwidth error (#7911)\r\n(Streaming Brain) Subtitles could\
+  \ disappear at the end of the file while transcoding (#7922)\r\n(Transcoder) Subtitles\
+  \ could be unnecessarily transcoded when streaming to Plex Media Player (#7598)\r\
+  \n(MediaInspector) Not all date information was getting saved correctly after re-analysis\
+  \ (#7934)\r\n(Photos) The timeline view could become inconsistent when dates are\
+  \ altered on items in the section (#7955)"
+label: Intel/AMD 32-bit (QTS-4.2.x or older)
+name: QNAP
+release_date: 1513173282
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.10.1.4602-f54242b6b/PlexMediaServer_1.10.1.4602-f54242b6b_x86.qpkg
+version: 1.10.1.4602-f54242b6b
