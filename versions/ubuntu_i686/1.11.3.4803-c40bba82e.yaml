@@ -1,0 +1,29 @@
+build: linux-ubuntu-i686
+checksum: f559a70158c1570c566749a2eb2718b3b48d0975
+distro: ubuntu
+extra_info: ''
+id: linux
+items_added: (Photos) Show recently favorited items in discovery hub (#8101)
+items_fixed: "(DVR) Back-to-back recordings would sometimes lose the second recording\
+  \ (#8168)\r\n(DVR) Cancelling a recording when comskip is enabled shouldn't result\
+  \ in an error (#7926)\r\n(DVR) Episodes of the same show that air on the same day\
+  \ now record correctly (#6668)\r\n(DVR) Parsing of dates in EyeQ data could potentially\
+  \ fail if format changed (#8209)\r\n(Filters) Dates before Jan 1st 1970 would not\
+  \ work properly in some filter fields (#8077)\r\n(LiveTV) Crash when stopping LiveTV\
+  \ (#8169)\r\n(Photos) Autotagging for some items could become stuck in a throttled\
+  \ state (#8068)\r\n(Photos) Changes to EXIF date fields edited in certain applications\
+  \ would not get picked up correctly (#8125)\r\n(Photos) Photo albums in folder view\
+  \ will now show thumbs for Posters and Backgrounds when editing and will correctly\
+  \ retain changes between scans (#7947)\r\n(Photos) Show video items in Recently\
+  \ Added hub for photo sections (#8101)\r\n(Photos) Timeline entries before Jan 1\
+  \ 1970 would not be displayed consistently (#8152)\r\n(Streaming Brain) Could deadlock\
+  \ in certain circumstances when ABR was in use (#8124)\r\n(Transcoder) Playback\
+  \ could fail or behave erratically near the end of videos when Direct Streaming\
+  \ to certain clients (#8042)\r\n(Transcoder) Soft subtitles could sometimes fail\
+  \ to play on iOS/tvOS (#8022)"
+label: Ubuntu 32-bit (10.04 Lucid or newer)
+name: Linux
+release_date: 1518752855
+requirements: ''
+url: https://downloads.plex.tv/plex-media-server/1.11.3.4803-c40bba82e/plexmediaserver_1.11.3.4803-c40bba82e_i386.deb
+version: 1.11.3.4803-c40bba82e
